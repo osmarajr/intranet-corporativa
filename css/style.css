@@ -1,6 +1,8 @@
-
+body{
+  margin: 0 auto;
+}
 header{
-  width: 100%;
+  width: 1200px;
   height: 120px;
 }
 .container-cabecalho{
