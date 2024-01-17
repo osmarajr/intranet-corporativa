@@ -1,0 +1,27 @@
+
+header{
+  width: 100%;
+  height: 120px;
+}
+.container-cabecalho{
+  width: 100%;
+  margin-left: 10em;
+  margin-right: 10em;
+  display: flex;
+}
+.logomarca{
+  width: 320px;
+  height: 93px;
+  background-color: blue;
+  margin-right: 10px;
+}
+.menu ul{
+  display: flex;
+  margin: auto;
+}
+.menu li{
+  margin: 30px 15px 15px 15px;
+}
+.menu a{
+  text-decoration: none;
+}
